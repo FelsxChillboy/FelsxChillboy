@@ -1,85 +1,75 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7AF6FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Ahmad+Azarruddiin!;Fullstack+Developer+%2F+IT+Student;Building+modern+web+apps+with+React+and+Node.js;Always+learning+and+creating+something+great" alt="Typing SVG" />
-</p>
+<!-- HEADER DENGAN TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Ahmad+Azarruddin!+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Mahasiswa+IT+%F0%9F%8E%93;Tech+%26+AI+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave">
-  <strong>Welcome to my GitHub profile</strong>
-</p>
+<h3 align="center">Selamat datang di ruang kerja digital saya! Senang bertemu dengan Anda di sini ✨</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelsxChillboy&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <a href="https://github.com/FelsxChillboy"><img src="https://img.shields.io/github/followers/FelsxChillboy?label=Followers&style=social" alt="GitHub Followers"/></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_ANDA&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-## 👋 About Me
+### 👨‍💻 Tentang Saya
 
-Hi! I'm <b>Ahmad Azarruddiin</b>, a passionate <b>Fullstack Developer</b> and <b>IT Student</b> who enjoys building clean, functional, and modern web applications. I love turning ideas into real solutions using technology that is both practical and scalable.
+Halo! Saya **Ahmad Azarruddin**, seorang Mahasiswa IT yang antusias membangun solusi digital sebagai Fullstack Developer. Saya senang mengeksplorasi teknologi web modern dan kecerdasan buatan.
 
-- 💻 Focused on building web apps with <b>React</b> and <b>Node.js</b>
-- 🌱 Currently learning: <b>Express.js</b> and <b>Machine Learning</b>
-- 🚀 Interested in full-stack development, API architecture, and user-centered product design
-- 💡 Always exploring new ways to improve my skills and build meaningful projects
-
----
-
-## 🛠️ Tech Stack
-
-### Core Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Skills & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,php,laravel,mysql,git,github,linux,vscode" alt="Skills Icons" />
+- 🔭 **Fokus saat ini:** Membangun aplikasi web yang skalabel dengan **React.js** dan **Node.js**.
+- 🌱 **Sedang mendalami:** **Express.js** dan **Machine Learning**.
+- 💬 **Tanyakan saya tentang:** Pengembangan Web (Frontend & Backend), JavaScript, PHP, dan Database.
+- 📫 **Hubungi saya di:** [azarcoy123@gmail.com](mailto:azarcoy123@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Terhubung Dengan Saya
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelsxChillboy&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelsxChillboy&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="190"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelsxChillboy&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/azaraja" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  <a href="https://x.com/azar_coy" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:azarcoy123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
 ---
 
-## ✨ Personal Motto
+### 🛠️ Tech Stack & Tools
 
-> “Build useful things, keep learning, and keep improving every single day.”
+<div align="center">
+  <h4>Bahasa Pemrograman & Framework</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,nodejs,express,laravel&perline=9" alt="Tech Stack" />
+  
+  <h4>Database & Lingkungan Pengembangan</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=5" alt="Database" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-00C853?style=for-the-badge" alt="Open to Collaboration"/>
-</p>
+---
+
+### 📊 Statistik GitHub Saya
+
+> ⚠️ **Catatan Penting:** Ganti teks `USERNAME_GITHUB_ANDA` di dalam kode ini dengan *username* akun GitHub asli Anda agar statistik di bawah ini berfungsi.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB_ANDA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Dibuat dengan ❤️ oleh <b>Ahmad Azarruddin</b></sub>
+</div>
