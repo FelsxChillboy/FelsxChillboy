@@ -1,29 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Ahmad+Azarruddin!+%F0%9F%91%8B;Fullstack+Developer+%2F+Mahasiswa+IT;Membangun+solusi+digital+dengan+React+dan+Node.js;Selamat+datang+di+profil+digital+saya!+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Halo%2C+Saya+Ahmad+Azarruddin!+%F0%9F%91%8B;Fullstack+Developer+%2F+Mahasiswa+IT;Membangun+solusi+digital+dengan+React+dan+Node.js;Selamat+datang+di+profil+saya!+%F0%9F%8E%89" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <svg width="980" height="80" viewBox="0 0 980 80" xmlns="http://www.w3.org/2000/svg">
+  <svg width="980" height="70" viewBox="0 0 980 70" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="g1" x1="0" x2="1">
+      <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#7C3AED"/>
-        <stop offset="50%" stop-color="#06B6D4"/>
-        <stop offset="100%" stop-color="#22C55E"/>
+        <stop offset="35%" stop-color="#38BDF8"/>
+        <stop offset="70%" stop-color="#34D399"/>
+        <stop offset="100%" stop-color="#F59E0B"/>
       </linearGradient>
     </defs>
-    <rect x="-20" y="30" width="260" height="10" rx="5" fill="url(#g1)">
-      <animate attributeName="x" from="-20" to="760" dur="5s" repeatCount="indefinite"/>
+    <rect x="-30" y="28" width="260" height="10" rx="5" fill="url(#lineGradient)">
+      <animate attributeName="x" from="-30" to="760" dur="6s" repeatCount="indefinite"/>
     </rect>
-    <rect x="320" y="30" width="260" height="10" rx="5" fill="url(#g1)" opacity="0.9">
-      <animate attributeName="x" from="320" to="-20" dur="5s" begin="0.8s" repeatCount="indefinite"/>
+    <rect x="360" y="28" width="260" height="10" rx="5" fill="url(#lineGradient)" opacity="0.9">
+      <animate attributeName="x" from="980" to="-30" dur="6s" begin="1.5s" repeatCount="indefinite"/>
     </rect>
-    <rect x="660" y="30" width="260" height="10" rx="5" fill="url(#g1)" opacity="0.8">
-      <animate attributeName="x" from="980" to="-20" dur="5s" begin="1.6s" repeatCount="indefinite"/>
+    <rect x="220" y="28" width="260" height="10" rx="5" fill="url(#lineGradient)" opacity="0.8">
+      <animate attributeName="x" from="-30" to="980" dur="6s" begin="3s" repeatCount="indefinite"/>
     </rect>
   </svg>
 </div>
 
-<h3 align="center">"Berkembang terus, belajar konsisten, dan membangun solusi yang bermanfaat ✨"</h3>
+<h3 align="center">"Berkembang secara konsisten, belajar tanpa henti, dan membangun produk yang berarti ✨"</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FelsxChillboy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -31,25 +32,25 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-Halo! Saya **Ahmad Azarruddin**, seorang **Fullstack Developer** dan **Mahasiswa IT** yang senang membangun aplikasi web modern dengan fokus pada pengalaman pengguna dan performa yang baik.
+Halo! Saya **Ahmad Azarruddin**, seorang **Fullstack Developer** dan **Mahasiswa IT** yang berfokus pada pembuatan aplikasi web modern yang fungsional, scalable, dan nyaman digunakan. Saya tertarik pada pengembangan produk digital yang menggabungkan pengalaman pengguna yang baik dengan performa teknis yang optimal.
 
 - 🔭 **Fokus saat ini:** Membangun aplikasi web dengan **React.js** dan **Node.js**
 - 🌱 **Sedang belajar:** **Express.js** dan **Machine Learning**
-- 💡 **Minat utama:** Frontend, Backend, API, Database, serta produk digital yang berdampak
+- 💡 **Minat utama:** Frontend, Backend, API, Database, dan pengembangan produk digital
 - 📫 **Kontak:** [azarcoy123@gmail.com](mailto:azarcoy123@gmail.com)
 
 ---
 
-### 🌐 Terhubung Dengan Saya
+### 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/azaraja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/azar_coy" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="mailto:azarcoy123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -64,12 +65,16 @@ Halo! Saya **Ahmad Azarruddin**, seorang **Fullstack Developer** dan **Mahasiswa
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h4>Bahasa Pemrograman & Framework</h4>
+  <h4>Languages & Frameworks</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,nodejs,express,laravel&perline=9" alt="Tech Stack" />
 
-  <h4>Database & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,laragon&perline=6" alt="Database & Tools" />
+  <h4>Database & Development Environment</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,laragon&perline=6" alt="Database & Dev Environment" />
   <br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -82,7 +87,7 @@ Halo! Saya **Ahmad Azarruddin**, seorang **Fullstack Developer** dan **Mahasiswa
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelsxChillboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -95,17 +100,28 @@ Halo! Saya **Ahmad Azarruddin**, seorang **Fullstack Developer** dan **Mahasiswa
 
 ---
 
+### ⚡ Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-Machine%20Learning-orange?style=flat-square" />
+</p>
+
+---
+
 <div align="center">
-  <svg width="760" height="34" viewBox="0 0 760 34" xmlns="http://www.w3.org/2000/svg">
+  <svg width="350" height="20" viewBox="0 0 350 20" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="g2" x1="0" x2="1">
+      <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#7C3AED"/>
         <stop offset="50%" stop-color="#38BDF8"/>
         <stop offset="100%" stop-color="#22C55E"/>
       </linearGradient>
     </defs>
-    <rect x="0" y="12" width="760" height="10" rx="5" fill="url(#g2)" opacity="0.9">
-      <animate attributeName="x" from="0" to="-40" dur="7s" repeatCount="indefinite"/>
+    <rect x="0" y="8" width="350" height="4" rx="2" fill="url(#footerLine)">
+      <animate attributeName="width" values="350;260;350" dur="4s" repeatCount="indefinite"/>
     </rect>
   </svg>
 </div>
